@@ -1,0 +1,62 @@
+body{
+	padding:50px 0px 0px 0px;
+	z-index:0;
+	
+}
+nav{
+	
+	font-size: 20px;
+	padding: 4px;
+	margin: 5px;
+	font-weight: bolder;
+	
+}
+.navbar{
+	font:color red;
+	background-color:black;
+	border-radius: 18px;
+}
+
+nav a:link{
+    color:blue;
+}
+nav a:visited{
+    color:pink;
+    background-color:white;
+}
+nav a:hover, nav a:active{
+    color:red !important;
+    background-color:white;
+}
+nav a:focus{
+    color:orange;
+}
+nav a:hover{
+	text-decoration: none;
+}
+.active{
+	background-color: burlywood;
+}
+.jumbotron{
+	color: darkred;
+}
+h1{
+	text-align: center;
+	color: orange;
+}
+
+section{
+	text-align:center;
+	color:deeppink;
+	font-size: 30px;
+	margin: 4%;
+	
+}
+footer{
+	font-size: 40px;
+	color:orange;
+	background-color: black;
+}
+a{
+	text-decoration: none;
+}
